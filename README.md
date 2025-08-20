@@ -5,9 +5,10 @@ Hello, my name is Simon Blondeau I am 15 years old my birthday is March 12 2010 
 
 A fun fact about myself is that I have been doing sports since I was young. I started with soccer playing at mason park, I then added track and field to my schedule to become faster. I have been doing track since while usually running short distances and hurdles. I stopped playing soccer in 6th grade and picked up with flag football for two years. I payed my first season of tackle back in 8th grade and loved playing, once I came to Chatsworth I tried out for the football and made the team. Later in the season I got moved up to play with varsity and we won the city championship!
 
-My expectations for this class is to 
+My expectations for this class is to become very organized in balanceing my classwork to not be stressed throughout the two semesters. I want to be able to learn and understand as much as I can of this subjet as I can. I want to be able to have fun while coding and creating things through the computer. Lastly want to know the material to be able to pass the AP test at the end of the year. 
 ## Playlist
-[this is my playlist]()
+
+https://open.spotify.com/playlist/2OTFNzLkK3UksGk11bwUDu
 
 ## My Collage
 
